@@ -1,4 +1,4 @@
-# PS's clan secret recipes
+# PS's family secret recipes
 
 Set of recipes as given by my aunt.
 
