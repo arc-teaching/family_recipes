@@ -1,6 +1,6 @@
 # PS's clan secret recipes
 
-Set of recipes as given by my grandma.
+Set of pizzas as given by my grandma.
 
 * Pizzas
 	- [base](./pizzas/base.md)
